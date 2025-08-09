@@ -1,5 +1,5 @@
 #https://rus.hitmotop.com/artist/343974/start/48  -- скачивание происходит только в одной странице формат ссылки такой скачивается только с rus.hitmotop
-
+# https://vk.com/wall485573646_2231  -- дополнительная инструкция
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
